@@ -12,3 +12,4 @@ There are three outputs:-
 
 In this, I have used **phe** python module which helps in homomorphic cryptography. (A Python 3 library for Partially Homomorphic Encryption using the Paillier crypto system.0
 https://python-paillier.readthedocs.io/en/stable/index.html
+**Install:**- pip install phe
